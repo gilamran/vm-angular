@@ -1,0 +1,10 @@
+{
+  "newRelicEndUserFooter": "",
+  "newRelicEndUserHeader": "",
+  "staticsUrl": "//localhost:9000/",
+  "staticBaseUrl": "//static.parastorage.com/",
+  "locale": "en",
+  "experiments": "{}",
+  "enableMocks": "true",
+  "debug": "true"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vm-angular",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-exec": "^0.4.6",
+    "grunt-process-vm": "^0.6.1",
+    "wix-gruntfile": "~0.1.2"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
