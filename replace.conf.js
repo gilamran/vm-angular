@@ -1,9 +1,13 @@
 'use strict';
 
+var experiment = {
+	'a': true
+}
 module.exports = {
   '${debug}': 'true',
   '${enableMocks}': 'false',
-  '${experiments}': '{}',
+  '${experiments}': JSON.stringify(experiments),
+  '${experimentsMap}': experiments,
   '${locale}': 'en',
 	'${appModel}': JSON.stringify({
 		'topology': {
