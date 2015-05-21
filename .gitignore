@@ -16,7 +16,6 @@ Gemfile.lock
 coverage
 target
 replace.private.conf.js
-Gruntfile.private.js
 reference.ts
 .baseDir.ts
 .tscache
